@@ -6,7 +6,6 @@
 <i>- George E. P. Box</i>
 </blockquote>
 <br>
-<br>
 
 Hi there! 👋 Hope you are doing alright! <br>
 My name is Eduardo, a passionate data scientist excited to share my personal projects with you. If you're interested in learning more or collaborating, please don't hesitate to reach out! 🚀
