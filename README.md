@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**eduardotaveiga/eduardotaveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<blockquote>
+<h2>
+    <q>All models are wrong, but some are useful.</q>
+</h2>
+<i>- George E. P. Box</i>
+</blockquote>
+<br>
+<br>
 
-Here are some ideas to get you started:
+Hi there! 👋 Hope you are doing alright! <br>
+My name is Eduardo, a passionate data scientist excited to share my personal projects with you. If you're interested in learning more or collaborating, please don't hesitate to reach out! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📈 Data Science learner
+- ❤️‍🔥 Python programming
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+ 
+ </div>
+ <br>
+ <br>
+ <br>
+ 
+ <div>
+  <a href="https://www.linkedin.com/in/eduardo-veiga-0728221a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:etaveiga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
