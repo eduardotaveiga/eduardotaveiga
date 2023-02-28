@@ -26,3 +26,4 @@ My name is Eduardo, a passionate data scientist excited to share my personal pro
  <div>
   <a href="https://www.linkedin.com/in/eduardo-veiga-0728221a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:etaveiga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://medium.com/@etaveiga" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
