@@ -14,10 +14,12 @@ My name is Eduardo, a passionate data scientist excited to share my personal pro
 
 - 📈 Data Science learner
 - ❤️‍🔥 Python programming
+- 🤖 Embbeded Systems developer (ESP32, Arduino)
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
  </div>
  <br>
  <br>
